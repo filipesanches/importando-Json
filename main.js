@@ -1,4 +1,4 @@
-const jsonDados= require('./teste.json'); 
+const jsonDados = require('./dados.json'); 
 const dados = jsonDados.dados
 
 
